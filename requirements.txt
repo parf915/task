@@ -1,0 +1,3 @@
+google-cloud-pipeline-components
+googleapis-common-protos
+google-cloud-aiplatform
